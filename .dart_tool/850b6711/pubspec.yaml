@@ -1,0 +1,6 @@
+name: workspace
+environment: 
+  sdk: '>=3.0.0 <4.0.0'
+dev_dependencies: 
+  melos: 
+    path: C:\Users\user\Desktop\melos
